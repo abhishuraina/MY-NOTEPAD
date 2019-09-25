@@ -1,5 +1,7 @@
 # MY-NOTEPAD
-A note pad made in python using Tkinter (GUI).
+# A note pad made in python using Tkinter (GUI).
+
+Hope you'll install it in your computer just to try .
 
 icons2 folder contains all the icons used in this Program.
 
@@ -12,3 +14,4 @@ Notepad -0.01-amd64.msi is the setup of this Notepad .
 setup.py is the file used to make the setup of the Notepad.
 
 You can install it on your computer on Ubuntu ,Windows , Macos.
+
