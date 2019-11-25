@@ -13,5 +13,9 @@ Notepad -0.01-amd64.msi is the setup of this Notepad .
 
 setup.py is the file used to make the setup of the Notepad.
 
-You can install it on your computer on Ubuntu ,Windows , Macos.
+You can install it on your computer on Windows .
+
+# How to install. Open -> Notepad -0.01-amd64.msi on your computer a download manager will pop up and  will ask for some permissions to install. 
+
+# Functionality to be added undo and redo to add more flexibility to it. 
 
