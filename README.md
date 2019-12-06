@@ -65,7 +65,7 @@ Now its time to execute **Notepad.py**
 >python Notepad.py
 ```
 it will show following Output
-![outputwindow]()
+![outputwindow](https://raw.githubusercontent.com/chavarera/MY-NOTEPAD/Readme/demo.png)
 
 ## Download
 :paperclip: [Download Here](https://github.com/abhishuraina/MY-NOTEPAD/blob/master/%20Notepad%20-0.01-amd64.msi)
