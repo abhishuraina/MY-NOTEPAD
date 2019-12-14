@@ -508,7 +508,7 @@ def hide_statusbar():
 
 
 view.add_checkbutton(label='Tool Bar',onvalue =True,offvalue=0,variable =show_toolbar,image=tool_bar_icon, compound=tk.LEFT,command=hide_toolbar)
-view.add_checkbutton(label='Staus Bar',onvalue =1,offvalue=False,variable =show_statusbar,image=status_bar_icon, compound=tk.LEFT,command=hide_statusbar)
+view.add_checkbutton(label='Status Bar',onvalue =1,offvalue=False,variable =show_statusbar,image=status_bar_icon, compound=tk.LEFT,command=hide_statusbar)
 
 ###color theme
 def change_theme():
